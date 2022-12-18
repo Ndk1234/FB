@@ -6,6 +6,10 @@
 <input type ="text">
 <span>Username</span>
 <input type="password">
+<input type="password">
+<input type="password">
+<input type="password">
+
 <input type ="radio">
 <input type = "checkbox">
 <button type ="Submit">Login</button>
